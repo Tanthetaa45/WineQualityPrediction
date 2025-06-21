@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda environment
+wine-ml/
+*.conda
+*.env
+*.yml
+
+# Mac OS specific
+.DS_Store
+
+# Logs and outputs
+*.log
+outputs/
+logs/
+
+# Model files
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Data files (you can keep raw if needed)
+data/processed/
+*.csv
+*.tsv
+
+# VSCode settings (optional)
+.vscode/
+
+# Notebook metadata
+*.nbconvert.ipynb
